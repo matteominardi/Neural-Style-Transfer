@@ -11,7 +11,7 @@ Obviously, this can be done with any arbitrary input and style image pairs to ac
 <img title="Original content image" width="250px" alt="Alt text" src="content.jpg">
 <h3>Style image:</h3> 
 <img title="Original style image" width="250px" alt="Alt text" src="style.jpg">
-<h3>Results: (after 500, 200, and 7000 epochs)</h3> 
+<h3>Results: (after 500, 2000, and 7000 epochs)</h3> 
 <img title="Output after 500 epochs" width="250px" alt="Alt text" src="500.png">
 <img title="Output after 2000 epochs" width="250px" alt="Alt text" src="2000.png">
 <img title="Output after 7000 epochs" width="250px" alt="Alt text" src="7000.png">
