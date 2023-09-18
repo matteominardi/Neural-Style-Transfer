@@ -8,11 +8,12 @@ In this example, the content image represents of my favourite areas of my hometo
 Obviously, this can be done with any arbitrary input and style image pairs to achieve stunning results.
 <hr>
 <h3>Content image:</h3> 
-<img title="Original content image" width="300px" alt="Alt text" src="content.jpg">
+<img title="Original content image" width="250px" alt="Alt text" src="content.jpg">
 <h3>Style image:</h3> 
-<img title="Original style image" width="300px" alt="Alt text" src="style.jpg">
-<h3>Results: (after 500 epochs and after 7000 epochs)</h3> 
-<img title="Output after 500 epochs" width="300px" alt="Alt text" src="500.png">
-<img title="Output after 7000 epochs" width="300px" alt="Alt text" src="2000.png">
+<img title="Original style image" width="250px" alt="Alt text" src="style.jpg">
+<h3>Results: (after 500, 200, and 7000 epochs)</h3> 
+<img title="Output after 500 epochs" width="250px" alt="Alt text" src="500.png">
+<img title="Output after 2000 epochs" width="250px" alt="Alt text" src="2000.png">
+<img title="Output after 7000 epochs" width="250px" alt="Alt text" src="7000.png">
 <hr>
 Feel free to check the files if you wish to see the code or the intermediate resutls.
